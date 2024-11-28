@@ -31,7 +31,7 @@
     "electron-context-menu": "^3.6.1",
     "electron-debug": "^1.4.0",
     "electron-dl": "^2.0.0",
-    "electron-store": "^8.1.0",
+    "electron-store": "^8.2.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
